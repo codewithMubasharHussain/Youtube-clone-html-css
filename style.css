@@ -193,9 +193,32 @@ nav{
     .sidebar{
         display: none;
     }
+    .container{
+        padding-left: 7px;
+        padding-right: 7px;
+    }
     .container .large-container{
         padding-left: 5%;
         padding-right: 5%;
-        
+
+    }
+    .right-nav img{
+        display: none;
+
+    }
+    .right-nav .user-icon{
+        display: block;
+        width: 30px;
+
+    }
+    .middle-nav .search-box input{
+        width: 100px;
+
+    }
+    .middle-nav .mic-search{
+        display: none;
+    }
+    .logo{
+        width: 90px;
     }
 }
