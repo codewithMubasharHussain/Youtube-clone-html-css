@@ -19,3 +19,7 @@ Implement additional pages like a Homepage with recommended videos and a Subscri
 **Getting Started**
 To view this project, clone the repository to your local machine:
 https://github.com/codewithMubasharHussain/Youtube-clone-html-css.git
+ ![Youtube Front Page](https://github.com/your-username/youtube-clone/blob/main/sidebar-collapsed.png)
+
+- **Video Page**
+  ![Video Page](https://github.com/your-username/youtube-clone/blob/main/video-page.png)
